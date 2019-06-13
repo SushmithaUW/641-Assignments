@@ -1,5 +1,0 @@
-Hello Amirpasha, 
-Kindly note the following:
-1. Model_training.py script contains code that trains word2vec model and save the same as 'mymodel.kv'
-2. Similar_words.py script contains code that loads the trained model and print top 20 words similar to 'good' and 'bad'
-3. mymodel.kv (zip file) is the trained model that contains the vectors. (for quick check of the output)
